@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello 👋
+
+- I'm a QA engineer with 4+ years of experience of working with complex b2b solutions in e-learning, telemedicine, and push-to-talk communications.
+- Here are mosly my educational projects.
+
+### Work
+
+- I'm working for a company in mission-critical communications where, besides many things, I'm writing tests for REST APIs with Kotlin and RestAssured.
+
+### Studies
+- Currently studing at [QA.GURU](https://github.com/qa-guru).
 
 <!--
 **resumeresu/resumeresu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
