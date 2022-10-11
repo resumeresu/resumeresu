@@ -8,7 +8,7 @@
 - I'm working for a company in mission-critical communications where, besides many things, I'm writing tests for REST APIs with Kotlin and RestAssured.
 
 ### 📖  Studies
-- Currently studing at [QA.GURU](https://github.com/qa-guru).
+- AQA course at [QA.GURU](https://github.com/qa-guru).
 
 <!--
 **resumeresu/resumeresu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
