@@ -1,11 +1,11 @@
 ### 👋  Hello
 
-- I'm a QA engineer with 4+ years of experience of working with complex b2b solutions in e-learning, telemedicine, and push-to-talk communications.
+- A QA engineer with 4+ years of experience of working with complex solutions in mission-critical communications, videoconferencing, e-learning, and telemedicine.
 - Here are my educational projects.
 
 ### 💻  Work
 
-- I'm working for a company in mission-critical communications where, besides many things, I'm writing tests for REST APIs with Kotlin and RestAssured.
+- Recentely I've started working for [Kontur](https://kontur.ru/) where I'm responsible for testing [Talk](https://kontur.ru/talk), a videoconferencing system.
 
 ### 📖  Studies
 - AQA course at [QA.GURU](https://github.com/qa-guru).
