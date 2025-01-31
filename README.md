@@ -1,6 +1,6 @@
 ### 👋  Hello
 
-- A QA engineer with 4+ years of experience of working with complex solutions in mission-critical communications, videoconferencing, e-learning, and telemedicine.
+- A QA engineer with 5+ years of experience of working with complex solutions in mission-critical communications, videoconferencing, e-learning, and telemedicine.
 - Here are my educational projects.
 
 ### 💻  Work
